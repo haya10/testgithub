@@ -20,7 +20,7 @@
 
 CoffeeScript is a little language that compiles into JavaScript.
 
-## Installation
+## Installation Test MH
 
 Once you have Node.js installed:
 

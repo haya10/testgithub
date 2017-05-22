@@ -5,7 +5,7 @@
 #
 # Running `cake` with no arguments will print out a list of all the tasks in the
 # current directory's Cakefile.
-# Juste a test
+# Juste a test ok c'est le bon texte
 
 # External dependencies.
 fs           = require 'fs'
